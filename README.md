@@ -27,6 +27,11 @@
 
 * After installing the plugin, configure the messages in `addons/swiftly/translations/translation.privatemessages.json`.
 
+### Usage 😀
+
+* Console: ```sw_pm <Player Name/Player ID> <Message>```.
+* Chat: ```!pm <Player Name/Player ID> <Message>```.
+
 ### Creating A Pull Request 😃
 
 1. Fork the Project
