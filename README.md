@@ -39,7 +39,3 @@
 Join [Swiftly Discord Server](https://swiftlycs2.net/discord)!
 
 ---
-
-**Related Plugin:**
-- [Swiftly] High Ping Kicker
-- [Repository Link](https://github.com/swiftly-solution/swiftly_highpingkicker)
